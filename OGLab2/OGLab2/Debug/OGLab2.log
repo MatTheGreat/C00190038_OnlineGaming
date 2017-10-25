@@ -1,0 +1,4 @@
+﻿  TcpListener.cpp
+c:\users\gameuser\documents\visual studio 2017\projects\oglab2\oglab2\tcplistener.cpp(189): warning C4018: '<': signed/unsigned mismatch
+  OGLab2.vcxproj -> C:\Users\gameuser\Documents\Visual Studio 2017\Projects\OGLab2\Debug\OGLab2.exe
+  OGLab2.vcxproj -> C:\Users\gameuser\Documents\Visual Studio 2017\Projects\OGLab2\Debug\OGLab2.pdb (Partial PDB)
